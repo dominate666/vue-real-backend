@@ -1,0 +1,20 @@
+{
+  "name": "vue-real-battle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominate666/vue-real-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominate666/vue-real-backend/issues"
+  },
+  "homepage": "https://github.com/dominate666/vue-real-backend#readme"
+}
